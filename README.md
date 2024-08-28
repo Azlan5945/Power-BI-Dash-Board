@@ -10,7 +10,7 @@ Time Series Analysis: Visualize trends in energy consumption and production over
 Energy Mix Breakdown: Explore the proportion of energy derived from different sources like fossil fuels, renewables, and nuclear energy.
 Energy Intensity Metrics: Compare the energy efficiency of economies by displaying the energy intensity (energy used per unit of GDP) for each country.
 Interactive Visualizations: Users can interact with data through dynamic charts and graphs, drill down into specific data points, and adjust the timeline.
-Visualizations
+## Visualizations
 The dashboard includes several key visualizations to analyze and compare the energy dynamics and economic factors of least developed and developed countries. Below is an explanation of each visual:
 Energy Consumption in different countries.
  Average Energy Production
